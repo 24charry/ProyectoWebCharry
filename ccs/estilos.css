@@ -9,7 +9,7 @@ body{
 
 .boton {
 border: 1px solid blueviolet; /*anchura, estilo y color borde*/
-padding: 3px; /*espacio alrededor texto*/
+padding: 2px; /*espacio alrededor texto*/
 background-color:wheat; /*color botón*/
 color:black; /*color texto*/
 text-decoration: none; /*decoración texto*/
@@ -17,3 +17,16 @@ text-transform: uppercase; /*capitalización texto*/
 font-family: 'Helvetica', sans-serif; /*tipografía texto*/
 border-radius: 50px; /*bordes redondos*/
 }
+
+.button {
+border: 1px solid blueviolet; /*anchura, estilo y color borde*/
+padding: 2px; /*espacio alrededor texto*/
+background-color:wheat; /*color botón*/
+color:black; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 50px; /*bordes redondos*/
+}
+
+
